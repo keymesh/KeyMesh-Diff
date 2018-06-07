@@ -16,9 +16,9 @@ KeyMesh's vision is a decentralized network of social endowment values. The KeyM
 
 ### ◢ Community
 
-- KeyMesh annonced its Manifesto 。
+- KeyMesh annonced its Manifesto.
 
-- KeyMesh is now starting airdrop aiming for korean。
+- KeyMesh is now starting airdrop aiming for korean.
 
 ![](../assets/issue1/1.jpeg)
 
