@@ -8,7 +8,7 @@ We welcome anyone who is willing to translate this into other languages: [中文
 
 ## Archive
 
-- [2018-05-27 | Issue#1](./en/issue1.md)
+- [2018-05-27 Issue#1](./en/issue1.md)
 
-- [2018-06-04 | Issue#2](./en/issue2.md)
+- [2018-06-04 Issue#2](./en/issue2.md)
 
