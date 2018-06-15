@@ -8,3 +8,6 @@
 
 - [2018-06-04 Issue#2](./zh-cn/issue2.md)
 
+- [2018-06-11 Issue#3](./zh-cn/issue3.md)
+- 
+

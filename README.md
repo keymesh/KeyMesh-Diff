@@ -1,6 +1,6 @@
 # KeyMesh-Diff
 
-[![EN](https://img.shields.io/badge/English-最新%232-blue.svg)](README.md) [![中文版](https://img.shields.io/badge/中文版-最新%232-brightgreen.svg)](README-CN.md)
+[![EN](https://img.shields.io/badge/English-latest%232-blue.svg)](README.md) [![中文版](https://img.shields.io/badge/中文版-最新%233-brightgreen.svg)](README-CN.md)
 
 Welcome to KeyMesh Diff, where we publish the latest activities and developments in the KeyMesh KMH project. KeyMesh Diff is maintained by the KeyMesh team.
 
